@@ -24,6 +24,7 @@ getFirstAndLast("hello", function(newStr) {
     console.log(newStr); 
 });
 */
+//First Module
 var fortune = require("./library/fortune.js");
+fortune();
 
-fortune("");

@@ -1,0 +1,19 @@
+{
+  "name": "foofighter099",
+  "version": "0.0.1",
+  "description": "1st package",
+  "main": "cps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foofighter099/node-workshop-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foofighter099/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/foofighter099/node-workshop-2#readme"
+}

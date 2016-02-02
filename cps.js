@@ -13,7 +13,7 @@ function lastChar(str, ret){
 //Use the newly created function to show that you understand the concept
 lastChar('Andrew', function(str){
     console.log(str);
-});*/
+});
 //Create a function that takes a string and a continuation (callback)
 //Your function should use the two previous functions you created to "return" a string that contains both the first and last character of the initial string
 function getFirstAndLast(newStr, callback){
@@ -23,3 +23,4 @@ function getFirstAndLast(newStr, callback){
 getFirstAndLast("hello", function(newStr) { 
     console.log(newStr); 
 });
+*/
